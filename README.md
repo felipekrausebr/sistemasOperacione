@@ -9,7 +9,6 @@ Simulador de Sistemas Operacionais desenvolvido em Python.
 
 * FCFS (First Come First Served)
 * SJF (Shortest Job First)
-* Round Robin
 * Escalonamento por Prioridade
 
 ### Gerenciamento de Memória
