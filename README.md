@@ -1,6 +1,7 @@
 # SO-Sim
 
 Simulador de Sistemas Operacionais desenvolvido em Python.
+Felipe Grein Krause
 
 ## Funcionalidades
 
@@ -17,7 +18,7 @@ Simulador de Sistemas Operacionais desenvolvido em Python.
 * Best Fit
 * Worst Fit
 
-### Interface Gráficad
+### Interface Gráfica
 
 Desenvolvida com Streamlit.
 
