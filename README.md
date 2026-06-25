@@ -36,7 +36,7 @@ Permite:
 Instale as dependências:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ou python -m pip install -r requirements.txt
 ```
 
 ## Execução
