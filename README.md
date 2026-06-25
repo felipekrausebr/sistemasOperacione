@@ -1,7 +1,7 @@
 # SO-Sim
 
 Simulador de Sistemas Operacionais desenvolvido em Python.
-Felipe Grein Krause
+
 
 ## Funcionalidades
 
