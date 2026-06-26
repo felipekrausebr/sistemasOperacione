@@ -94,6 +94,7 @@ Conforme solicitado pelo professor durante a apresentação, segue cenários de 
 ```
 P1 → P2 → P3 → P4 → P5
 ```
+<img width="2497" height="1197" alt="image" src="https://github.com/user-attachments/assets/c8457e01-de23-40f8-bc99-4401409225c4" />
 
 ---
 
