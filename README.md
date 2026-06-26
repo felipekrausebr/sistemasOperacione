@@ -71,7 +71,7 @@ src/
 
 ## Cenários de Teste
 
-A seguir são apresentados alguns cenários para validação dos algoritmos implementados no simulador.
+Conforme solicitado pelo professor durante a apresentação, segue cenários de teste utilizados para validação.
 
 ---
 
