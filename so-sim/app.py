@@ -98,13 +98,8 @@ with tab_cpu:
 
     algorithm = st.selectbox(
         "Escolha o algoritmo de escalonamento",
-        ["FCFS", "SJF", "Round Robin", "Prioridade"]
+        ["FCFS", "SJF", "Prioridade"]
     )
-
-    quantum = 2
-
-    if algorithm == "Round Robin":
-        quantum = st.number_input("Quantum", min_value=1, value=2)
 
     if st.button("Executar Simulação", key="executar_cpu"):
         processes = build_processes(processes_data)
@@ -113,8 +108,6 @@ with tab_cpu:
             gantt = Scheduler.fcfs(processes)
         elif algorithm == "SJF":
             gantt = Scheduler.sjf(processes)
-        elif algorithm == "Round Robin":
-            gantt = Scheduler.round_robin(processes, quantum)
         else:
             gantt = Scheduler.priority_scheduling(processes)
 
