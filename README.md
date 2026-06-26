@@ -142,6 +142,7 @@ P4 → P2 → P5 → P3 → P1
 ```
 P2 → P4 → P3 → P1 → P5
 ```
+<img width="2476" height="1124" alt="image" src="https://github.com/user-attachments/assets/58848438-a962-482c-b94e-d7c644a96438" />
 
 ---
 
