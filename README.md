@@ -260,8 +260,6 @@ P5 → Não alocado
 - **Best Fit:** utiliza o menor bloco de memória capaz de acomodar o processo.
 - **Worst Fit:** utiliza o maior bloco de memória disponível.
 
-Todos os cenários acima podem ser reproduzidos na interface do simulador para validar o funcionamento dos algoritmos implementados.
-
 ## Autor
 
 Felipe Krause
